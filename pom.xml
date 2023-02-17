@@ -68,7 +68,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>lombok</goal>
+                            <goal>delombok</goal>
                         </goals>
                         <phase>generate-sources</phase>
                     </execution>
